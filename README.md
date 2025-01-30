@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   2 mins          ██████████████░░░░░░░░░░░   55.50 %
-C++    2 mins          ███████████░░░░░░░░░░░░░░   44.50 %
+From: 22 January 2025 - To: 29 January 2025
+
+YAML   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.50 %
+C++    2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.50 %
 ```
 
 <!--END_SECTION:waka-->
