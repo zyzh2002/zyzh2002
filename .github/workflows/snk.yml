@@ -30,7 +30,10 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git commit -a -m "Add changes"
+          git add assets/github-snake-dark.svg
+          git add assets/github-snake.svg
+          git add assets/ocean.gif
+          git commit -m "Add changes"
           
       - name: Push changes
         uses: ad-m/github-push-action@master
