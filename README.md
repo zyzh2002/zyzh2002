@@ -1,19 +1,10 @@
 ## Hi there 👋
 
-<!--
-**zyzh2002/zyzh2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **zyzh0**!
 
-Here are some ideas to get you started:
+成分复杂，做过单片机，画过PCB，Linux主力用户，写了好几年Python，但是之后想做HPC🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 最近摸的🐟
 
 <!--START_SECTION:waka-->
 
@@ -28,3 +19,10 @@ HTML         2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
+
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zyzh2002" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyzh2002&layout=compact&langs_count=8&card_width=320" />
+</a>
