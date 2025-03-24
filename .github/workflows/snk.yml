@@ -25,11 +25,17 @@ jobs:
             assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git git config --local user.name "github-actions[bot]"
+          git commit -a -m "Add changes"
           
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           branch: main
-          force: true
-          message: 'Generate Contribution Snake' 
+          force: false
+          message: 'Commited contribution snake' 
