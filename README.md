@@ -9,9 +9,10 @@ This is **zyzh0**! And this is my [personal blog](https://blog.zyzh20021020.cn)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2025 - To: 07 October 2025
+From: 01 October 2025 - To: 08 October 2025
 
-No activity tracked
+C++    1 hr 41 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.89 %
+Roff   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.11 %
 ```
 
 <!--END_SECTION:waka-->
