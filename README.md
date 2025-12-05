@@ -11,6 +11,8 @@ This is **zyzh0**! And this is my [personal blog](https://blog.zyzh20021020.cn)
 ```txt
 From: 27 November 2025 - To: 04 December 2025
 
+Total Time: 1 hr 8 mins
+
 C++      37 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.12 %
 Python   30 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.88 %
 ```
