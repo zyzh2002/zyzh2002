@@ -17,4 +17,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TITLE: true
+          SHOW_MASKED_TIME: true
+          STOP_AT_OTHER: true
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
