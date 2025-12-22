@@ -9,12 +9,11 @@ This is **zyzh0**! And this is my [personal blog](https://blog.zyzh20021020.cn)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 20 December 2025
+From: 14 December 2025 - To: 21 December 2025
 
-Total Time: 2 hrs
+Total Time: 6 mins
 
-C++    1 hr 54 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀   94.98 %
-YAML   6 mins          ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.02 %
+YAML   6 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
