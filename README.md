@@ -9,13 +9,13 @@ This is **zyzh0**! And this is my [personal blog](https://blog.zyzh20021020.cn)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2026 - To: 16 June 2026
+From: 10 June 2026 - To: 17 June 2026
 
-Total Time: 4 hrs 28 mins
+Total Time: 4 hrs 54 mins
 
-Markdown     3 hrs 36 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀   80.45 %
-JSON         32 mins               ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.98 %
-Other        12 mins               ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.57 %
+Markdown     3 hrs 40 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.84 %
+JSON         32 mins               ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.95 %
+Other        28 mins               ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.60 %
 ```
 
 <!--END_SECTION:waka-->
