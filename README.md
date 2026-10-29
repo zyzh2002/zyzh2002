@@ -9,11 +9,11 @@ This is **zyzh0**! And this is my [personal blog](https://blog.zyzh20021020.cn)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 October 2026 - To: 26 October 2026
+From: 20 October 2026 - To: 27 October 2026
 
-Total Time: 36 hrs 4 mins
+Total Time: 35 hrs 41 mins
 
-Other        18 hrs 52 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.34 %
+Other        18 hrs 32 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   51.97 %
 ```
 
 <!--END_SECTION:waka-->
