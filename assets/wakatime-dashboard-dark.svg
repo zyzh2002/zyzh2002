@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="716" viewBox="0 0 1200 716" role="img" aria-labelledby="title"><title id="title">WakaTime development activity and AI coding</title><style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}</style>
+<text x="50" y="47" font-size="29" fill="#f0f6fc" font-weight="700" text-anchor="start">Development Activity</text>
+<text x="1150" y="44" font-size="13" fill="#9da7b3" font-weight="500" text-anchor="end">LAST 7 DAYS</text>
+<text x="50" y="87" font-size="14" fill="#9da7b3" font-weight="400" text-anchor="start">Code Time</text>
+<text x="50" y="117" font-size="24" fill="#f0f6fc" font-weight="650" text-anchor="start">—</text>
+<text x="342" y="87" font-size="14" fill="#9da7b3" font-weight="400" text-anchor="start">Daily Average</text>
+<text x="342" y="117" font-size="24" fill="#f0f6fc" font-weight="650" text-anchor="start">—</text>
+<text x="634" y="87" font-size="14" fill="#9da7b3" font-weight="400" text-anchor="start">Top Language</text>
+<text x="634" y="117" font-size="24" fill="#f0f6fc" font-weight="650" text-anchor="start">—</text>
+<text x="926" y="87" font-size="14" fill="#9da7b3" font-weight="400" text-anchor="start">Active Days</text>
+<text x="926" y="117" font-size="24" fill="#f0f6fc" font-weight="650" text-anchor="start">—</text>
+<text x="50" y="157" font-size="20" fill="#f0f6fc" font-weight="650" text-anchor="start">Languages</text>
+<text x="58" y="188" font-size="15" fill="#9da7b3" font-weight="400" text-anchor="start">Awaiting first WakaTime sync</text>
+<text x="50" y="352" font-size="20" fill="#f0f6fc" font-weight="650" text-anchor="start">Tools</text>
+<text x="58" y="378" font-size="15" fill="#9da7b3" font-weight="400" text-anchor="start">Editors:   Pending</text>
+<text x="626" y="378" font-size="15" fill="#9da7b3" font-weight="400" text-anchor="start">Operating Systems:   Pending</text>
+<text x="50" y="441" font-size="28" fill="#f0f6fc" font-weight="700" text-anchor="start">Vibe Coding</text>
+<text x="50" y="467" font-size="12" fill="#9da7b3" font-weight="400" text-anchor="start">Awaiting first WakaTime sync</text>
+<text x="50" y="502" font-size="14" fill="#9da7b3" font-weight="400" text-anchor="start">Total Tokens</text>
+<text x="50" y="530" font-size="24" fill="#f0f6fc" font-weight="650" text-anchor="start">N/A</text>
+<text x="342" y="502" font-size="14" fill="#9da7b3" font-weight="400" text-anchor="start">Input</text>
+<text x="342" y="530" font-size="24" fill="#f0f6fc" font-weight="650" text-anchor="start">N/A</text>
+<text x="634" y="502" font-size="14" fill="#9da7b3" font-weight="400" text-anchor="start">Output</text>
+<text x="634" y="530" font-size="24" fill="#f0f6fc" font-weight="650" text-anchor="start">N/A</text>
+<text x="926" y="502" font-size="14" fill="#9da7b3" font-weight="400" text-anchor="start">Cached</text>
+<text x="926" y="530" font-size="24" fill="#f0f6fc" font-weight="650" text-anchor="start">N/A</text>
+<text x="50" y="566" font-size="20" fill="#f0f6fc" font-weight="650" text-anchor="start">Model Usage</text>
+<text x="58" y="598" font-size="15" fill="#9da7b3" font-weight="400" text-anchor="start">Awaiting first WakaTime sync</text>
+<text x="50" y="705" font-size="14" fill="#9da7b3" font-weight="400" text-anchor="start">AI Sessions</text>
+<text x="1150" y="705" font-size="22" fill="#f0f6fc" font-weight="650" text-anchor="end">N/A</text>
+</svg>
