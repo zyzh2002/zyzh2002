@@ -40,9 +40,7 @@
 <text x="926" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Cached</text>
 <text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">0</text>
 <text x="50" y="566" font-size="20" font-weight="650" text-anchor="start" fill="#24292f">Model Usage</text>
-<text x="58" y="598" font-size="15" font-weight="400" text-anchor="start" fill="#374151">OpenCode</text>
-<rect x="251" y="587" width="737" height="7" rx="3.5" fill="#d8dee4"/>
-<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">0  ·  0.0%</text>
+<text x="58" y="598" font-size="15" font-weight="400" text-anchor="start" fill="#57606a">No AI activity recorded</text>
 <text x="50" y="705" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">AI Sessions</text>
 <text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#24292f">0</text>
 </svg>
