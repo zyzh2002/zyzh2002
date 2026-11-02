@@ -1,23 +1,67 @@
-name: Waka Readme
+name: WakaTime Dashboard
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: '17 0 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/waka-readme.yml'
+      - 'scripts/wakatime_dashboard.py'
+      - 'scripts/test_wakatime_dashboard.py'
+  pull_request:
+    paths:
+      - '.github/workflows/waka-readme.yml'
+      - 'scripts/wakatime_dashboard.py'
+      - 'scripts/test_wakatime_dashboard.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wakatime-dashboard-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  validate:
+    name: Validate dashboard generator
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: actions/checkout@v4
+      - run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - run: python3 scripts/wakatime_dashboard.py --empty --output-dir /tmp/wakatime-preview
+
+  update-dashboard:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    name: Generate light and dark WakaTime SVGs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
         with:
+          persist-credentials: true
+      - name: Generate SVGs
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          SHOW_TITLE: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 5
-          STOP_AT_OTHER: true
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python3 scripts/wakatime_dashboard.py --output-dir assets
+      - name: Commit generated SVGs
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/wakatime-dashboard-light.svg assets/wakatime-dashboard-dark.svg
+          if git diff --cached --quiet; then
+            echo 'No changes.'
+            exit 0
+          fi
+          git commit -m 'Update WakaTime dashboard'
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep "$((attempt * 2))"
+          done
+          echo 'Push failed after three attempts' >&2
+          exit 1
