@@ -1,31 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="716" viewBox="0 0 1200 716" role="img" aria-labelledby="title"><title id="title">WakaTime development activity and AI coding</title><style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}</style>
-<text x="50" y="47" font-size="29" fill="#24292f" font-weight="700" text-anchor="start">Development Activity</text>
-<text x="1150" y="44" font-size="13" fill="#57606a" font-weight="500" text-anchor="end">LAST 7 DAYS</text>
-<text x="50" y="87" font-size="14" fill="#57606a" font-weight="400" text-anchor="start">Code Time</text>
-<text x="50" y="117" font-size="24" fill="#24292f" font-weight="650" text-anchor="start">—</text>
-<text x="342" y="87" font-size="14" fill="#57606a" font-weight="400" text-anchor="start">Daily Average</text>
-<text x="342" y="117" font-size="24" fill="#24292f" font-weight="650" text-anchor="start">—</text>
-<text x="634" y="87" font-size="14" fill="#57606a" font-weight="400" text-anchor="start">Top Language</text>
-<text x="634" y="117" font-size="24" fill="#24292f" font-weight="650" text-anchor="start">—</text>
-<text x="926" y="87" font-size="14" fill="#57606a" font-weight="400" text-anchor="start">Active Days</text>
-<text x="926" y="117" font-size="24" fill="#24292f" font-weight="650" text-anchor="start">—</text>
-<text x="50" y="157" font-size="20" fill="#24292f" font-weight="650" text-anchor="start">Languages</text>
-<text x="58" y="188" font-size="15" fill="#57606a" font-weight="400" text-anchor="start">Awaiting first WakaTime sync</text>
-<text x="50" y="352" font-size="20" fill="#24292f" font-weight="650" text-anchor="start">Tools</text>
-<text x="58" y="378" font-size="15" fill="#57606a" font-weight="400" text-anchor="start">Editors:   Pending</text>
-<text x="626" y="378" font-size="15" fill="#57606a" font-weight="400" text-anchor="start">Operating Systems:   Pending</text>
-<text x="50" y="441" font-size="28" fill="#24292f" font-weight="700" text-anchor="start">Vibe Coding</text>
-<text x="50" y="467" font-size="12" fill="#57606a" font-weight="400" text-anchor="start">Awaiting first WakaTime sync</text>
-<text x="50" y="502" font-size="14" fill="#57606a" font-weight="400" text-anchor="start">Total Tokens</text>
-<text x="50" y="530" font-size="24" fill="#24292f" font-weight="650" text-anchor="start">N/A</text>
-<text x="342" y="502" font-size="14" fill="#57606a" font-weight="400" text-anchor="start">Input</text>
-<text x="342" y="530" font-size="24" fill="#24292f" font-weight="650" text-anchor="start">N/A</text>
-<text x="634" y="502" font-size="14" fill="#57606a" font-weight="400" text-anchor="start">Output</text>
-<text x="634" y="530" font-size="24" fill="#24292f" font-weight="650" text-anchor="start">N/A</text>
-<text x="926" y="502" font-size="14" fill="#57606a" font-weight="400" text-anchor="start">Cached</text>
-<text x="926" y="530" font-size="24" fill="#24292f" font-weight="650" text-anchor="start">N/A</text>
-<text x="50" y="566" font-size="20" fill="#24292f" font-weight="650" text-anchor="start">Model Usage</text>
-<text x="58" y="598" font-size="15" fill="#57606a" font-weight="400" text-anchor="start">Awaiting first WakaTime sync</text>
-<text x="50" y="705" font-size="14" fill="#57606a" font-weight="400" text-anchor="start">AI Sessions</text>
-<text x="1150" y="705" font-size="22" fill="#24292f" font-weight="650" text-anchor="end">N/A</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="716" viewBox="0 0 1200 716" role="img" aria-labelledby="title desc">
+<title id="title">Development Activity and Vibe Coding</title>
+<desc id="desc">WakaTime coding, language and AI model usage statistics for the last seven days.</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,"Noto Sans",sans-serif;font-variant-numeric:tabular-nums}</style>
+<g fill="none" stroke="#24292f" stroke-width="2.6" stroke-linecap="round"><path d="M57 27 L47 36 L57 45"/><path d="M70 27 L80 36 L70 45"/><path d="M65 24 L61 48"/></g>
+<text x="96" y="47" font-size="29" font-weight="700" text-anchor="start" fill="#24292f">Development Activity</text>
+<text x="1150" y="44" font-size="13" font-weight="500" text-anchor="end" fill="#57606a">LAST 7 DAYS</text>
+<text x="50" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Code Time</text>
+<text x="50" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">19h 53m</text>
+<text x="342" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Daily Average</text>
+<text x="342" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">2h 50m</text>
+<text x="634" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Top Language</text>
+<text x="634" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">YAML</text>
+<text x="926" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Active Days</text>
+<text x="926" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">7/7</text>
+<text x="50" y="157" font-size="20" font-weight="650" text-anchor="start" fill="#24292f">Languages</text>
+<text x="58" y="188" font-size="15" font-weight="400" text-anchor="start" fill="#374151">Other</text>
+<rect x="230" y="177" width="758" height="7" rx="3.5" fill="#d8dee4"/>
+<rect x="230" y="177" width="712.79" height="7" rx="3.5" fill="#6e7781"/>
+<text x="1150" y="188" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">18h 42m  ·  94.0%</text>
+<text x="58" y="217" font-size="15" font-weight="400" text-anchor="start" fill="#374151">YAML</text>
+<rect x="230" y="206" width="758" height="7" rx="3.5" fill="#d8dee4"/>
+<rect x="230" y="206" width="45.21" height="7" rx="3.5" fill="#6e7781"/>
+<text x="1150" y="217" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">1h 11m  ·  6.0%</text>
+<text x="50" y="352" font-size="20" font-weight="650" text-anchor="start" fill="#24292f">Tools</text>
+<text x="58" y="378" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Editors:</text>
+<text x="150" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#374151">MiniMaxCode 81%   ·   AdobeLightroo… 10%</text>
+<line x1="599" x2="599" y1="362" y2="381" stroke="#d8dee4"/>
+<text x="626" y="378" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Operating Systems:</text>
+<text x="815" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#374151">Windows 100%</text>
+<g fill="none" stroke="#24292f" stroke-width="2.3"><rect x="50" y="418" width="28" height="21" rx="5"/><path d="M64 418 v-5"/><circle cx="64" cy="411" r="1.5" fill="#24292f" stroke="none"/><circle cx="59" cy="429" r="1.5" fill="#24292f" stroke="none"/><circle cx="69" cy="429" r="1.5" fill="#24292f" stroke="none"/></g>
+<text x="94" y="441" font-size="28" font-weight="700" text-anchor="start" fill="#24292f">Vibe Coding</text>
+<text x="50" y="467" font-size="12" font-weight="400" text-anchor="start" fill="#57606a">No AI activity recorded</text>
+<text x="50" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Total Tokens</text>
+<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">0</text>
+<text x="342" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Input</text>
+<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">0</text>
+<text x="634" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Output</text>
+<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">0</text>
+<text x="926" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Cached</text>
+<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">0</text>
+<text x="50" y="566" font-size="20" font-weight="650" text-anchor="start" fill="#24292f">Model Usage</text>
+<text x="58" y="598" font-size="15" font-weight="400" text-anchor="start" fill="#374151">OpenCode</text>
+<rect x="251" y="587" width="737" height="7" rx="3.5" fill="#d8dee4"/>
+<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">0  ·  0.0%</text>
+<text x="50" y="705" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">AI Sessions</text>
+<text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#24292f">0</text>
 </svg>
