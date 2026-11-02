@@ -85,7 +85,7 @@ def collect(stats,days):
     out=max(out,sum(v[1] for v in by_model.values()))
     cached=sum(v[2] for v in by_model.values())
     total_tokens=inp+out+cached
-    rows=sorted(((name,sum(vals)) for name,vals in by_model.items()),key=lambda x:-x[1])
+    rows=sorted(((name,sum(vals)) for name,vals in by_model.items() if sum(vals)>0),key=lambda x:-x[1])
     missing=max(total_tokens-sum(v for _,v in rows),0)
     if missing:rows.append(("Unattributed",missing));rows.sort(key=lambda x:-x[1])
     if len(rows)>4:rows=rows[:3]+[("Other models",sum(v for _,v in rows[3:]))]
