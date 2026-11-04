@@ -30,17 +30,28 @@
 <text x="815" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#374151">Windows 100%</text>
 <g fill="none" stroke="#24292f" stroke-width="2.3"><rect x="50" y="418" width="28" height="21" rx="5"/><path d="M64 418 v-5"/><circle cx="64" cy="411" r="1.5" fill="#24292f" stroke="none"/><circle cx="59" cy="429" r="1.5" fill="#24292f" stroke="none"/><circle cx="69" cy="429" r="1.5" fill="#24292f" stroke="none"/></g>
 <text x="94" y="441" font-size="28" font-weight="700" text-anchor="start" fill="#24292f">Vibe Coding</text>
-<text x="50" y="467" font-size="12" font-weight="400" text-anchor="start" fill="#57606a">No AI activity recorded</text>
+<text x="50" y="467" font-size="12" font-weight="400" text-anchor="start" fill="#57606a">WAKATIME AI CODING · LAST 7 DAYS</text>
 <text x="50" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Total Tokens</text>
-<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">0</text>
+<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">9.10M</text>
 <text x="342" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Input</text>
-<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">0</text>
+<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">3.67M</text>
 <text x="634" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Output</text>
-<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">0</text>
+<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">71.8K</text>
 <text x="926" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Cached</text>
-<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">0</text>
+<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">5.35M</text>
 <text x="50" y="566" font-size="20" font-weight="650" text-anchor="start" fill="#24292f">Model Usage</text>
-<text x="58" y="598" font-size="15" font-weight="400" text-anchor="start" fill="#57606a">No AI activity recorded</text>
+<text x="58" y="598" font-size="15" font-weight="400" text-anchor="start" fill="#374151">M</text>
+<rect x="251" y="587" width="737" height="7" rx="3.5" fill="#d8dee4"/>
+<rect x="251" y="587" width="350.77" height="7" rx="3.5" fill="#6e7781"/>
+<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">4.33M  ·  47.6%</text>
+<text x="58" y="627" font-size="15" font-weight="400" text-anchor="start" fill="#374151">GPT</text>
+<rect x="251" y="616" width="737" height="7" rx="3.5" fill="#d8dee4"/>
+<rect x="251" y="616" width="330.02" height="7" rx="3.5" fill="#6e7781"/>
+<text x="1150" y="627" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">4.07M  ·  44.8%</text>
+<text x="58" y="656" font-size="15" font-weight="400" text-anchor="start" fill="#374151">Vscode</text>
+<rect x="251" y="645" width="737" height="7" rx="3.5" fill="#d8dee4"/>
+<rect x="251" y="645" width="56.22" height="7" rx="3.5" fill="#6e7781"/>
+<text x="1150" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">694K  ·  7.6%</text>
 <text x="50" y="705" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">AI Sessions</text>
 <text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#24292f">0</text>
 </svg>
