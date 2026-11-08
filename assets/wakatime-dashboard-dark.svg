@@ -6,33 +6,37 @@
 <text x="96" y="47" font-size="29" font-weight="700" text-anchor="start" fill="#f0f6fc">Development Activity</text>
 <text x="1150" y="44" font-size="13" font-weight="500" text-anchor="end" fill="#9da7b3">LAST 7 DAYS</text>
 <text x="50" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Code Time</text>
-<text x="50" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">19h 18m</text>
+<text x="50" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">13h 23m</text>
 <text x="342" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Daily Average</text>
-<text x="342" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">2h 45m</text>
+<text x="342" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">1h 55m</text>
 <text x="634" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Top Language</text>
-<text x="634" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">YAML</text>
+<text x="634" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">C++</text>
 <text x="926" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Active Days</text>
-<text x="926" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">6/7</text>
+<text x="926" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">7/7</text>
 <text x="50" y="157" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Languages</text>
 <text x="58" y="188" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Other</text>
 <rect x="230" y="177" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="177" width="668.22" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="188" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">17h 1m  ·  88.2%</text>
-<text x="58" y="217" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">YAML</text>
+<rect x="230" y="177" width="603.04" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="188" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">10h 39m  ·  79.6%</text>
+<text x="58" y="217" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">C++</text>
 <rect x="230" y="206" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="206" width="46.56" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="217" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">1h 11m  ·  6.1%</text>
-<text x="58" y="246" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">C++</text>
+<rect x="230" y="206" width="50.12" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="217" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">53m  ·  6.6%</text>
+<text x="58" y="246" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">JavaScript</text>
 <rect x="230" y="235" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="235" width="34.74" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="246" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">53m  ·  4.6%</text>
+<rect x="230" y="235" width="39.78" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="246" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">42m  ·  5.2%</text>
 <text x="58" y="275" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Markdown</text>
 <rect x="230" y="264" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="264" width="8.47" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="275" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">13m  ·  1.1%</text>
+<rect x="230" y="264" width="33.15" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="275" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">35m  ·  4.4%</text>
+<text x="58" y="304" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">C#</text>
+<rect x="230" y="293" width="758" height="7" rx="3.5" fill="#30363d"/>
+<rect x="230" y="293" width="14.98" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="304" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">16m  ·  2.0%</text>
 <text x="50" y="352" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Tools</text>
 <text x="58" y="378" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Editors:</text>
-<text x="150" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">MiniMaxCode 66%   ·   VS Code 14%</text>
+<text x="150" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">MiniMaxCode 62%   ·   VS Code 14%</text>
 <line x1="599" x2="599" y1="362" y2="381" stroke="#30363d"/>
 <text x="626" y="378" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Operating Systems:</text>
 <text x="815" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Windows 100%</text>
@@ -40,26 +44,26 @@
 <text x="94" y="441" font-size="28" font-weight="700" text-anchor="start" fill="#f0f6fc">Vibe Coding</text>
 <text x="50" y="467" font-size="12" font-weight="400" text-anchor="start" fill="#9da7b3">WAKATIME AI CODING · LAST 7 DAYS</text>
 <text x="50" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Total Tokens</text>
-<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">9.10M</text>
+<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">42.47M</text>
 <text x="342" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Input</text>
-<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">3.67M</text>
+<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">5.60M</text>
 <text x="634" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Output</text>
-<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">71.8K</text>
+<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">173K</text>
 <text x="926" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Cached</text>
-<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">5.35M</text>
+<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">36.70M</text>
 <text x="50" y="566" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Model Usage</text>
-<text x="58" y="598" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">M</text>
+<text x="58" y="598" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Vscode</text>
 <rect x="251" y="587" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="587" width="350.77" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">4.33M  ·  47.6%</text>
-<text x="58" y="627" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">GPT</text>
+<rect x="251" y="587" width="591.21" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">34.07M  ·  80.2%</text>
+<text x="58" y="627" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">M</text>
 <rect x="251" y="616" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="616" width="330.02" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="627" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">4.07M  ·  44.8%</text>
-<text x="58" y="656" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Vscode</text>
+<rect x="251" y="616" width="75.12" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="627" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">4.33M  ·  10.2%</text>
+<text x="58" y="656" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">GPT</text>
 <rect x="251" y="645" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="645" width="56.22" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">694K  ·  7.6%</text>
+<rect x="251" y="645" width="70.67" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">4.07M  ·  9.6%</text>
 <text x="50" y="705" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">AI Sessions</text>
-<text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#f0f6fc">1</text>
+<text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#f0f6fc">3</text>
 </svg>
