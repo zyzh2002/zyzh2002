@@ -12,7 +12,7 @@
 <text x="634" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Top Language</text>
 <text x="634" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">C++</text>
 <text x="926" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Active Days</text>
-<text x="926" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">7/7</text>
+<text x="926" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">6/7</text>
 <text x="50" y="157" font-size="20" font-weight="650" text-anchor="start" fill="#24292f">Languages</text>
 <text x="58" y="188" font-size="15" font-weight="400" text-anchor="start" fill="#374151">Other</text>
 <rect x="230" y="177" width="758" height="7" rx="3.5" fill="#d8dee4"/>
@@ -44,26 +44,26 @@
 <text x="94" y="441" font-size="28" font-weight="700" text-anchor="start" fill="#24292f">Vibe Coding</text>
 <text x="50" y="467" font-size="12" font-weight="400" text-anchor="start" fill="#57606a">WAKATIME AI CODING · LAST 7 DAYS</text>
 <text x="50" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Total Tokens</text>
-<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">42.47M</text>
+<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">38.18M</text>
 <text x="342" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Input</text>
-<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">5.60M</text>
+<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">5.45M</text>
 <text x="634" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Output</text>
-<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">173K</text>
+<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">124K</text>
 <text x="926" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">Cached</text>
-<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">36.70M</text>
+<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#24292f">32.61M</text>
 <text x="50" y="566" font-size="20" font-weight="650" text-anchor="start" fill="#24292f">Model Usage</text>
 <text x="58" y="598" font-size="15" font-weight="400" text-anchor="start" fill="#374151">Vscode</text>
 <rect x="251" y="587" width="737" height="7" rx="3.5" fill="#d8dee4"/>
-<rect x="251" y="587" width="591.21" height="7" rx="3.5" fill="#6e7781"/>
-<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">34.07M  ·  80.2%</text>
-<text x="58" y="627" font-size="15" font-weight="400" text-anchor="start" fill="#374151">M</text>
+<rect x="251" y="587" width="657.78" height="7" rx="3.5" fill="#6e7781"/>
+<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">34.07M  ·  89.3%</text>
+<text x="58" y="627" font-size="15" font-weight="400" text-anchor="start" fill="#374151">GPT</text>
 <rect x="251" y="616" width="737" height="7" rx="3.5" fill="#d8dee4"/>
-<rect x="251" y="616" width="75.12" height="7" rx="3.5" fill="#6e7781"/>
-<text x="1150" y="627" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">4.33M  ·  10.2%</text>
-<text x="58" y="656" font-size="15" font-weight="400" text-anchor="start" fill="#374151">GPT</text>
+<rect x="251" y="616" width="78.63" height="7" rx="3.5" fill="#6e7781"/>
+<text x="1150" y="627" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">4.07M  ·  10.7%</text>
+<text x="58" y="656" font-size="15" font-weight="400" text-anchor="start" fill="#374151">Unattributed</text>
 <rect x="251" y="645" width="737" height="7" rx="3.5" fill="#d8dee4"/>
-<rect x="251" y="645" width="70.67" height="7" rx="3.5" fill="#6e7781"/>
-<text x="1150" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">4.07M  ·  9.6%</text>
+<rect x="251" y="645" width="1.50" height="7" rx="3.5" fill="#6e7781"/>
+<text x="1150" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#57606a">30.5K  ·  0.1%</text>
 <text x="50" y="705" font-size="14" font-weight="400" text-anchor="start" fill="#57606a">AI Sessions</text>
 <text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#24292f">3</text>
 </svg>
