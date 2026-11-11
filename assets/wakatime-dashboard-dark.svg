@@ -6,9 +6,9 @@
 <text x="96" y="47" font-size="29" font-weight="700" text-anchor="start" fill="#f0f6fc">Development Activity</text>
 <text x="1150" y="44" font-size="13" font-weight="500" text-anchor="end" fill="#9da7b3">LAST 7 DAYS</text>
 <text x="50" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Code Time</text>
-<text x="50" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">11h 32m</text>
+<text x="50" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">10h 35m</text>
 <text x="342" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Daily Average</text>
-<text x="342" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">1h 39m</text>
+<text x="342" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">1h 31m</text>
 <text x="634" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Top Language</text>
 <text x="634" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">C++</text>
 <text x="926" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Active Days</text>
@@ -16,27 +16,27 @@
 <text x="50" y="157" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Languages</text>
 <text x="58" y="188" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Other</text>
 <rect x="230" y="177" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="177" width="576.83" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="188" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">8h 47m  ·  76.1%</text>
+<rect x="230" y="177" width="563.11" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="188" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">7h 52m  ·  74.3%</text>
 <text x="58" y="217" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">C++</text>
 <rect x="230" y="206" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="206" width="58.15" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="217" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">53m  ·  7.7%</text>
+<rect x="230" y="206" width="63.37" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="217" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">53m  ·  8.4%</text>
 <text x="58" y="246" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">JavaScript</text>
 <rect x="230" y="235" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="235" width="46.16" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="246" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">42m  ·  6.1%</text>
+<rect x="230" y="235" width="54.87" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="246" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">46m  ·  7.2%</text>
 <text x="58" y="275" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Markdown</text>
 <rect x="230" y="264" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="264" width="39.82" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="275" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">36m  ·  5.3%</text>
-<text x="58" y="304" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">C#</text>
+<rect x="230" y="264" width="39.30" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="275" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">33m  ·  5.2%</text>
+<text x="58" y="304" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Go</text>
 <rect x="230" y="293" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="293" width="17.39" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="304" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">16m  ·  2.3%</text>
+<rect x="230" y="293" width="18.92" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="304" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">16m  ·  2.5%</text>
 <text x="50" y="352" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Tools</text>
 <text x="58" y="378" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Editors:</text>
-<text x="150" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">MiniMaxCode 54%   ·   VS Code 17%</text>
+<text x="150" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">MiniMaxCode 51%   ·   VS Code 22%</text>
 <line x1="599" x2="599" y1="362" y2="381" stroke="#30363d"/>
 <text x="626" y="378" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Operating Systems:</text>
 <text x="815" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Windows 100%</text>
