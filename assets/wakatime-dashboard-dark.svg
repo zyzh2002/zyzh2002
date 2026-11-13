@@ -6,37 +6,37 @@
 <text x="96" y="47" font-size="29" font-weight="700" text-anchor="start" fill="#f0f6fc">Development Activity</text>
 <text x="1150" y="44" font-size="13" font-weight="500" text-anchor="end" fill="#9da7b3">LAST 7 DAYS</text>
 <text x="50" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Code Time</text>
-<text x="50" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">9h 17m</text>
+<text x="50" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">5h 58m</text>
 <text x="342" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Daily Average</text>
-<text x="342" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">1h 20m</text>
+<text x="342" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">51m</text>
 <text x="634" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Top Language</text>
 <text x="634" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">JavaScript</text>
 <text x="926" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Active Days</text>
-<text x="926" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">7/7</text>
+<text x="926" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">6/7</text>
 <text x="50" y="157" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Languages</text>
 <text x="58" y="188" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Other</text>
 <rect x="230" y="177" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="177" width="608.02" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="188" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">7h 27m  ·  80.2%</text>
+<rect x="230" y="177" width="512.28" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="188" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">4h 2m  ·  67.6%</text>
 <text x="58" y="217" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">JavaScript</text>
 <rect x="230" y="206" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="206" width="62.56" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="217" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">46m  ·  8.3%</text>
+<rect x="230" y="206" width="97.23" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="217" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">46m  ·  12.8%</text>
 <text x="58" y="246" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Markdown</text>
 <rect x="230" y="235" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="235" width="44.82" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="246" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">33m  ·  5.9%</text>
-<text x="58" y="275" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Go</text>
+<rect x="230" y="235" width="42.27" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="246" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">20m  ·  5.6%</text>
+<text x="58" y="275" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">TeX</text>
 <rect x="230" y="264" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="264" width="21.58" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="275" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">16m  ·  2.8%</text>
-<text x="58" y="304" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">JSON</text>
+<rect x="230" y="264" width="40.36" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="275" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">19m  ·  5.3%</text>
+<text x="58" y="304" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Go</text>
 <rect x="230" y="293" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="293" width="20.79" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="304" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">15m  ·  2.7%</text>
+<rect x="230" y="293" width="33.54" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="304" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">16m  ·  4.4%</text>
 <text x="50" y="352" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Tools</text>
 <text x="58" y="378" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Editors:</text>
-<text x="150" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">MiniMaxCode 59%   ·   WorkBuddy 18%</text>
+<text x="150" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">MiniMaxCode 47%   ·   OpenCode 19%</text>
 <line x1="599" x2="599" y1="362" y2="381" stroke="#30363d"/>
 <text x="626" y="378" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Operating Systems:</text>
 <text x="815" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Windows 100%</text>
@@ -65,5 +65,5 @@
 <rect x="251" y="645" width="1.50" height="7" rx="3.5" fill="#bac2cc"/>
 <text x="1150" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">125K  ·  0.2%</text>
 <text x="50" y="705" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">AI Sessions</text>
-<text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#f0f6fc">5</text>
+<text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#f0f6fc">6</text>
 </svg>
