@@ -44,30 +44,30 @@
 <text x="94" y="441" font-size="28" font-weight="700" text-anchor="start" fill="#f0f6fc">Vibe Coding</text>
 <text x="50" y="467" font-size="12" font-weight="400" text-anchor="start" fill="#9da7b3">WAKATIME AI CODING · LAST 7 DAYS</text>
 <text x="50" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Total Tokens</text>
-<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">209.73M</text>
+<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">206.02M</text>
 <text x="342" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Input</text>
-<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">7.60M</text>
+<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">7.42M</text>
 <text x="634" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Output</text>
-<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">2.17M</text>
+<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">2.23M</text>
 <text x="926" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Cached</text>
-<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">199.96M</text>
+<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">196.37M</text>
 <text x="50" y="566" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Model Usage</text>
 <text x="58" y="598" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">GLM</text>
 <rect x="251" y="587" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="587" width="281.01" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">79.97M  ·  38.1%</text>
+<rect x="251" y="587" width="286.07" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">79.97M  ·  38.8%</text>
 <text x="58" y="627" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Opencode-Cli</text>
 <rect x="251" y="616" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="616" width="195.92" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="627" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">55.75M  ·  26.6%</text>
+<rect x="251" y="616" width="199.45" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="627" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">55.75M  ·  27.1%</text>
 <text x="58" y="656" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">GPT</text>
 <rect x="251" y="645" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="645" width="95.73" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">27.24M  ·  13.0%</text>
+<rect x="251" y="645" width="98.15" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">27.44M  ·  13.3%</text>
 <text x="58" y="685" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Other models</text>
 <rect x="251" y="674" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="674" width="164.33" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="685" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">46.76M  ·  22.3%</text>
+<rect x="251" y="674" width="153.33" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="685" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">42.86M  ·  20.8%</text>
 <text x="50" y="705" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">AI Sessions</text>
 <text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#f0f6fc">42</text>
 </svg>
