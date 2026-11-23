@@ -6,37 +6,37 @@
 <text x="96" y="47" font-size="29" font-weight="700" text-anchor="start" fill="#f0f6fc">Development Activity</text>
 <text x="1150" y="44" font-size="13" font-weight="500" text-anchor="end" fill="#9da7b3">LAST 7 DAYS</text>
 <text x="50" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Code Time</text>
-<text x="50" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">23h 57m</text>
+<text x="50" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">22h 11m</text>
 <text x="342" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Daily Average</text>
-<text x="342" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">3h 59m</text>
+<text x="342" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">3h 42m</text>
 <text x="634" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Top Language</text>
-<text x="634" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">TeX</text>
+<text x="634" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">Markdown</text>
 <text x="926" y="87" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Active Days</text>
 <text x="926" y="117" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">6/7</text>
 <text x="50" y="157" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Languages</text>
 <text x="58" y="188" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Other</text>
 <rect x="230" y="177" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="177" width="444.36" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="188" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">14h 2m  ·  58.6%</text>
-<text x="58" y="217" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">TeX</text>
+<rect x="230" y="177" width="351.30" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="188" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">10h 17m  ·  46.3%</text>
+<text x="58" y="217" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Markdown</text>
 <rect x="230" y="206" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="206" width="133.54" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="217" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">4h 13m  ·  17.6%</text>
-<text x="58" y="246" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Markdown</text>
+<rect x="230" y="206" width="181.41" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="217" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">5h 19m  ·  23.9%</text>
+<text x="58" y="246" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">TeX</text>
 <rect x="230" y="235" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="235" width="127.43" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="246" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">4h 2m  ·  16.8%</text>
+<rect x="230" y="235" width="163.72" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="246" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">4h 48m  ·  21.6%</text>
 <text x="58" y="275" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">TypeScript</text>
 <rect x="230" y="264" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="264" width="29.44" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="275" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">56m  ·  3.9%</text>
+<rect x="230" y="264" width="31.76" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="275" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">56m  ·  4.2%</text>
 <text x="58" y="304" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Mermaid</text>
 <rect x="230" y="293" width="758" height="7" rx="3.5" fill="#30363d"/>
-<rect x="230" y="293" width="15.90" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="304" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">30m  ·  2.1%</text>
+<rect x="230" y="293" width="17.15" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="304" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">30m  ·  2.3%</text>
 <text x="50" y="352" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Tools</text>
 <text x="58" y="378" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Editors:</text>
-<text x="150" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">WorkBuddy 38%   ·   MiniMaxCode 27%</text>
+<text x="150" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">WorkBuddy 38%   ·   MiniMaxCode 14%</text>
 <line x1="599" x2="599" y1="362" y2="381" stroke="#30363d"/>
 <text x="626" y="378" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Operating Systems:</text>
 <text x="815" y="378" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Windows 100%</text>
@@ -44,30 +44,30 @@
 <text x="94" y="441" font-size="28" font-weight="700" text-anchor="start" fill="#f0f6fc">Vibe Coding</text>
 <text x="50" y="467" font-size="12" font-weight="400" text-anchor="start" fill="#9da7b3">WAKATIME AI CODING · LAST 7 DAYS</text>
 <text x="50" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Total Tokens</text>
-<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">355.79M</text>
+<text x="50" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">293.74M</text>
 <text x="342" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Input</text>
-<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">16.34M</text>
+<text x="342" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">15.60M</text>
 <text x="634" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Output</text>
-<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">2.91M</text>
+<text x="634" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">2.71M</text>
 <text x="926" y="502" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">Cached</text>
-<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">336.53M</text>
+<text x="926" y="530" font-size="24" font-weight="650" text-anchor="start" fill="#f0f6fc">275.43M</text>
 <text x="50" y="566" font-size="20" font-weight="650" text-anchor="start" fill="#f0f6fc">Model Usage</text>
 <text x="58" y="598" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">GLM</text>
 <rect x="251" y="587" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="587" width="307.62" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">148.50M  ·  41.7%</text>
+<rect x="251" y="587" width="318.65" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="598" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">127.00M  ·  43.2%</text>
 <text x="58" y="627" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Tencent Hy</text>
 <rect x="251" y="616" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="616" width="208.55" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="627" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">100.68M  ·  28.3%</text>
+<rect x="251" y="616" width="252.60" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="627" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">100.68M  ·  34.3%</text>
 <text x="58" y="656" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Vscode</text>
 <rect x="251" y="645" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="645" width="99.60" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">48.08M  ·  13.5%</text>
+<rect x="251" y="645" width="120.46" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="656" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">48.01M  ·  16.3%</text>
 <text x="58" y="685" font-size="15" font-weight="400" text-anchor="start" fill="#e6edf3">Other models</text>
 <rect x="251" y="674" width="737" height="7" rx="3.5" fill="#30363d"/>
-<rect x="251" y="674" width="121.24" height="7" rx="3.5" fill="#bac2cc"/>
-<text x="1150" y="685" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">58.53M  ·  16.5%</text>
+<rect x="251" y="674" width="45.29" height="7" rx="3.5" fill="#bac2cc"/>
+<text x="1150" y="685" font-size="14" font-weight="400" text-anchor="end" fill="#9da7b3">18.05M  ·  6.1%</text>
 <text x="50" y="705" font-size="14" font-weight="400" text-anchor="start" fill="#9da7b3">AI Sessions</text>
-<text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#f0f6fc">39</text>
+<text x="1150" y="705" font-size="22" font-weight="650" text-anchor="end" fill="#f0f6fc">41</text>
 </svg>
